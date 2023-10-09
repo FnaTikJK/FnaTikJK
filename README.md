@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### Fullstack (C#/React.Ts) developer in SKB Kontur
+#### Ural Federal University student
 <!--
 **FnaTikJK/FnaTikJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
